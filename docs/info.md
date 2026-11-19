@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+this desing realices the sum of two binary numbers.
 
 ## How to test
 
-Explain how to use your project
+use the dipswitch to indicate the value
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+a 4 dipswitch elements is needed for the input conexion and three LEDs are needed for the output.
